@@ -24,3 +24,5 @@ Languages used:<br>
 APIs used:<br>
 -OpenWeather Current Weather Data API (https://openweathermap.org/current)<br>
 -OpenCage Geocoding API (https://opencagedata.com/)<br>
+
+### To make the widget work it is necessary for you to enter your personal API Keys in the respective fields ( ... 'YOUR API KEY' ... in script.js file) for openweathermap.org and opencagedata.com.
